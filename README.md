@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/techieemma-blueviolet)
 
-# Project Name
+# EaseSnapMarket
 
-> Description the project.
-
+> Discover the future of shopping with EaseSnapMarket. Snap up the best deals and enjoy a market experience that's as easy as a snap and trading becomes a breeze. providing the ultimate convenience for all your shopping needs. Enjoy a user-friendly interface and a wide range of products at your fingertips.
 
 ## Built With
 
@@ -11,16 +10,11 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo (Coming soon)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -36,27 +30,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Nicholas Emmanuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/nickemma)
+- Twitter: [@twitterhandle](https://twitter.com/@techieEmma)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/techieemma)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/nickemma/ultimate-snapmarket/issues).
 
 ## Show your support
 
@@ -66,7 +52,16 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+
+## Contact
+
+ <div align="center">
+ <a href="https://www.linkedin.com/in/techieemma/"><img src="https://img.shields.io/badge/linkedin-%23f78a38.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
+ <a href="https://twitter.com/techieEmma"><img src="https://img.shields.io/badge/Twitter-%23f78a38.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
+ <a href="https://github.com/nickemma/"><img src="https://img.shields.io/badge/github-%23f78a38.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a> 
+ <a href="https://medium.com/@nicholasemmanuel321"><img src="https://img.shields.io/badge/Medium-%23f78a38.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"></a> 
+ <a href="mailto:nicholasemmanuel321@gmail.com"><img src="https://img.shields.io/badge/Gmail-f78a38?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"></a>
+ </div>
 
 ## 📝 License
 
