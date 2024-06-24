@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/techieemma-blueviolet)
 
-# EaseSnapMarket
+# SnapMarket
 
-> Discover the future of shopping with EaseSnapMarket. Snap up the best deals and enjoy a market experience that's as easy as a snap and trading becomes a breeze. providing the ultimate convenience for all your shopping needs. Enjoy a user-friendly interface and a wide range of products at your fingertips.
+> Discover the future of shopping with SnapMarket. Snap up the best deals and enjoy a market experience that's as easy as a snap and trading becomes a breeze. providing the ultimate convenience for all your shopping needs. Enjoy a user-friendly interface and a wide range of products at your fingertips.
 
 ## Built With
 
