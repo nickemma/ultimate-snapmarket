@@ -9,7 +9,7 @@ export const LoginForm = () => {
       backButtonLabel="Create an account"
       showSocials
     >
-      <div>hey</div>
+      <div></div>
     </AuthCard>
   );
 };
